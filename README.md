@@ -1,4 +1,4 @@
 # pureCss
  Captain America with pure css
 
-![](./Captain America/captainAmerica.png)
+<img src="/Captain America/captainAmerica.png"  alt="">
